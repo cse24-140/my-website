@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+  <head>
+      <title>A phenomenal woman</title>
+      <!--external css-->
+      <!--internal css-->
+      <style>
+          body{
+              background: #785d5b
+              margin: 0 5%
+              border: #f00 solid thin;
+              padding: 0 2%;
+       }
+       header{
+                background: #ccc
+       }
+       header h1{ float: right;}
+       nav{
+               margin-top:1%;
+               background: #aef;
+       }
+       nav ul{
+              list-style type: none;
+           }
+       nav ul li{
+           display: inline;
+           font-family: verdana, sans-serif
+           font-weight:700
+           line-height: 24px;
+           margin: 5px 15px:
+      }
+      nav ul li a{
+           text-decoration: none;
+           height: 250px;
+      }
+      aside{
+          background: #aef 
+          margin-top: 10x
+          margin-left: 10px
+          float: right;
+          width: 40%;
+      }
+      div{
+        margin-top: 10px;
+      }
+      footer{
+         clear: both;
+         background: #fff;
+         boarder: #000 dashed thin;
+         padding: 10px
+         text-align: center;
+         color: #ccc;
+      }
+      a{
+         color: #f000;
+      }
+  </style>
+</head>
+<body>
+    <nav style="">
+    <a href="https://www.bing.com/ck/a?!&&p=c080ef264762b3f13a911ed9da628698c1ce8717bf92265c6b8a3b9d819c22b0JmltdHM9MTc0MDYxNDQwMA&ptn=3&ver=2&hsh=4&fclid=091fbf4d-1714-6e79-3a83-aaed16146fb5&psq=pictures+of+a+phenomenal+women&u=a1aHR0cHM6Ly93d3cuZ2V0dHlpbWFnZXMuY29tL3Bob3Rvcy9waGVub21lbmFsLXdvbWVu&ntb=1">Home</a>
+<img src = "https://www.bing.com/images/search?view=detailV2&ccid=ISpsU2fy&id=E5C069F3B16D05F9D69CEDC2D45BA37A144EAD19&thid=OIP.ISpsU2fyZTwkH5QbRhsTCQAAAA&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f7f%2f55%2f16%2f7f5516bf156aeac957bd6ec8563eb6b4.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.212a6c5367f2653c241f941b461b1309%3frik%3dGa1OFHqjW9TC7Q%26pid%3dImgRaw%26r%3d0&exph=400&expw=472&q=Names+of+women+who+became+rich+with+no+one%27s+support&simid=608021921058724600&FORM=IRPRST&ck=740B563062B0EA263D637DEB61B1EE6E&selectedIndex=25&itb=1">
+</nav>
+<article>
+<h1><a href=">Celebrating the strength and achievement of a phenomenal woman</a></h1>
+</article>
+<aside>
+<h1>Empowering stories that inspire,motivate and educate others to break boundries and build legacies.</h1>
+</aside>
+<h1> Throughout history countless women have broken barries and defined expectations</h1>
+</aside>
+<div></div>
+</body>
+</html>
