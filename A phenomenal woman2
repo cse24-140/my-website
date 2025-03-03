@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+<head>
+    <title>A Phenomenal Woman</title>
+    <!-- External CSS (if any) -->
+    <!-- Internal CSS -->
+    <style>
+        body {
+            background: #785d5b;
+            margin: 0 5%;
+            border: #f00 solid thin;
+            padding: 0 2%;
+        }
+        header {
+            background: #ccc;
+        }
+        header h1 {
+            float: right;
+        }
+        nav {
+            margin-top: 1%;
+            background: #aef;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            font-family: Verdana, sans-serif;
+            font-weight: 700;
+            line-height: 24px;
+            margin: 5px 15px;
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: inherit;
+        }
+        aside {
+            background: #aef;
+            margin-top: 10px;
+            margin-left: 10px;
+            float: right;
+            width: 40%;
+        }
+        div {
+            margin-top: 10px;
+        }
+        footer {
+            clear: both;
+            background: #fff;
+            border: #000 dashed thin;
+            padding: 10px;
+            text-align: center;
+            color: #ccc;
+        }
+        a {
+            color: #f00;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>A Phenomenal Woman</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="https://www.bing.com/ck/a?!&&p=c080ef264762b3f13a911ed9da628698c1ce8717bf92265c6b8a3b9d819c22b0JmltdHM9MTc0MDYxNDQwMA&ptn=3&ver=2&hsh=4&fclid=091fbf4d-1714-6e79-3a83-aaed16146fb5&psq=pictures+of+a+phenomenal+women&u=a1aHR0cHM6Ly93d3cuZ2V0dHlpbWFnZXMuY29tL3Bob3Rvcy9waGVub21lbmFsLXdvbWVu&ntb=1">Home</a></li>
+        </ul>
+    </nav>
+    <article>
+        <h1>Celebrating the Strength and Achievement of a Phenomenal Woman</h1>
+    </article>
+    <aside>
+        <h1>Empowering stories that inspire, motivate, and educate others to break boundaries and build legacies.</h1>
+    </aside>
+    <div>
+        <h1>Throughout history, countless women have broken barriers and defied expectations.</h1>
+    </div>
+    <footer>
+        <p>Footer Content</p>
+    </footer>
+</body>
+</html>
